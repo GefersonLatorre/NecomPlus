@@ -1,0 +1,14 @@
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\bin\Debug\netcoreapp2.2\CoreVanillaJs.deps.json
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\bin\Debug\netcoreapp2.2\CoreVanillaJs.runtimeconfig.json
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\bin\Debug\netcoreapp2.2\CoreVanillaJs.runtimeconfig.dev.json
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\bin\Debug\netcoreapp2.2\CoreVanillaJs.dll
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.csprojAssemblyReference.cache
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.csproj.CoreCompileInputs.cache
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.RazorAssemblyInfo.cache
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.RazorAssemblyInfo.cs
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.AssemblyInfoInputs.cache
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.AssemblyInfo.cs
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.RazorTargetAssemblyInfo.cache
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\bin\Debug\netcoreapp2.2\CoreVanillaJs.pdb
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.dll
+C:\Users\Geferson Latorre\Desktop\Necomplus\CoreVanillaJs\CoreVanillaJs\obj\Debug\netcoreapp2.2\CoreVanillaJs.pdb

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel=StyleSheet href="style.css" type="text/css" media=screen>
+    <script type="text/javascript" src="functions.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/alertifyjs@1.11.0/build/css/alertify.min.css" rel="stylesheet"/>
+    <script src="https://cdn.jsdelivr.net/npm/alertifyjs@1.11.0/build/alertify.min.js"></script>
+    <title>NecomPlus</title>
+</head>
+
+<body>
+    <h1>Entidades</h1>
+    <hr>
+    <form id="frm">
+        <input type="hidden" name="Id" id="Id">
+        <label>Nombre: </label>
+        <input class="control" type="text" name="Nombre" id="Nombre">
+        <br>
+        <label>Direccion: </label>
+        <input class="control" type="text" name="Direccion" id="Direccion">
+        <br>
+        <label>Codigo Postal: </label>
+        <input class="control" type="text" name="CodPostal" id="CodPostal">
+        <br>
+        <label>Telefono: </label>
+        <input class="control" type="text" name="Telefono" id="Telefono">
+        <br>
+        <label>Email: </label>
+        <input class="control" type="text" name="Email" id="Email">
+        <br>
+        <label>Pais: </label>
+        <input class="control" type="text" name="Pais" id="Pais">
+        <br>       
+        <label>Grupo: </label>
+        <select class="control" id="grupos"></select>
+        <br>         
+        <input type="radio" name="Estado" id="Activo" value="1">
+        <label>Activo</label>
+        <input type="radio" name="Estado" id="Inactivo" value="0">
+        <label>Inactivo</label>
+        <br>
+        <br>
+        <input type="button" id="btnGuardar" value="Guardar" onclick="Guardar()">
+        <input type="button" id="btnLimpiar" value="Limpiar" onclick="Clear()">
+        <br> 
+    </form>
+    <hr>
+    <div id="divLista"></div>
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(0, 119, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
+h1{
+    color: white;
+}
+
+#divLista{
+    background-color: rgb(42, 165, 114);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+span{
+    margin: 50px;
+    color: white;
+}
+
+button{
+    margin: 5px;
+    border-radius: 20px;
+    background-color: #eeff00;
+    padding: 10px;
+    color: rgb(255, 81, 0);
+}
+
+.control{
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: #868686;
+    color: #fff;
+    border: 1px solid #636b7b;
+}
+
+#btnLimpiar{
+    margin: 5px;
+    border-radius: 20px;
+    background-color: #00f7ff;
+    padding: 10px;
+    color: rgb(255, 0, 200);
+}
+
+#btnGuardar{
+    margin: 5px;
+    border-radius: 20px;
+    background-color: #00ff40;
+    padding: 10px;
+    color: rgb(0, 136, 214);
+}
